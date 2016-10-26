@@ -31,7 +31,7 @@ function getCardsAttachments(session) {
     return [
         new builder.HeroCard(session)
             .title('Azure Storage')
-            .subtitle('Massively scalable cloud storage for your applications (1)')
+            .subtitle('Massively scalable cloud storage for your applications (2)')
             .text('Store and help protect your data. Get durable, highly available data storage across the globe and pay only for what you use.')
             .images([
                 builder.CardImage.create(session, 'https://acom.azurecomcdn.net/80C57D/cdn/mediahandler/docarticles/dpsmedia-prod/azure.microsoft.com/en-us/documentation/articles/storage-introduction/20160801042915/storage-concepts.png')
