@@ -1,5 +1,5 @@
 # Carousel of Cards Bot Sample
-
+Eric Vernié
 A sample bot that sends multiple rich card attachments in a single message using the Carousel layout.
 
 [![Deploy to Azure][Deploy Button]][Deploy CarouselCards/Node]
